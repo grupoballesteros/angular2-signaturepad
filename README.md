@@ -1,4 +1,4 @@
-# angular2-signaturepad
+# angular2-signaturepad (angular/common 16 VERSIÓN ACTUALIZADA)
 Angular 2 component for [szimek/signature_pad](https://www.npmjs.com/package/signature_pad).
 
 # No Longer Maintained
